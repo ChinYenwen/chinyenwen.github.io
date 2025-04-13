@@ -93,12 +93,13 @@ content:
         skills: | # this will include new lines to allow paragraphs
           <mark>React Native</mark>, <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Docker</mark>, <mark>Knex</mark>, <mark>Postman</mark>
         description: | # this will include new lines to allow paragraphs
-          - Analyzed an undocumented application to understand its structure and successfully developed a chat functionality, ensuring seamless integration with the existing system.
-          - Configuring Docker containers to deploy a full-stack application, seamlessly integrating a PHP backend with a MySQL database to streamline development and testing workflows.
-          - Executing SQL data migrations and seeding processes, leveraging Knex and TablePlus to ensure data integrity and accurate database setup.
-          - Designing and implementing robust API endpoints to enable efficient communication between the frontend and backend, thoroughly testing functionality and request-response flows with Postman to ensure reliability and performance.
-          - Integrating a React Native chat interface in the app’s frontend, connecting it with the backend to enable real-time interaction with UMGPT for seamless user communication.
-          - Translating technical complexities into concise, actionable updates for management, focusing on insights, project progress, and realistic timelines.
+          - Analyzed an <mark>undocumented application</mark> to understand its structure and successfully <mark>developed a chat functionality</mark>, ensuring seamless integration with the existing system.
+          - <mark>Configured Docker containers</mark> to deploy a full-stack application, integrating a <mark>PHP backend</mark> with a <mark>MySQL database</mark> to streamline development and testing workflows.
+          - <mark>Executed SQL data migrations</mark> and seeding processes, leveraging <mark>Knex</mark> and <mark>TablePlus</mark> to ensure <mark>data integrity</mark> and accurate database setup.
+          - <mark>Designed and implemented API endpoints</mark> for efficient frontend-backend communication, using <mark>Postman</mark> to rigorously test <mark>request-response flows</mark> for performance and reliability.
+          - Integrated a <mark>React Native</mark> chat interface in the app’s frontend, connecting it with the backend for <mark>real-time interaction with UMGPT</mark>.
+          - Translated <mark>technical complexities</mark> into concise, actionable updates for management, focusing on <mark>project insights</mark> and realistic <mark>timelines</mark>.
+
       - layout: left
         title: Boehringer Ingelheim
         # link: boringcompany.com
@@ -110,10 +111,11 @@ content:
         skills: | # this will include new lines to allow paragraphs
           <mark>Power BI</mark>, <mark>Shell Script</mark>, <mark>SharePoint</mark>, <mark>Agile</mark>
         description: | # this will include new lines to allow paragraphs
-            - Developed a solution to extract data from an SFTP file system into a CSV file and automated its execution using Task Scheduler
-            - Implemented Shell Script, Power BI, and SharePoint to automate the reporting process for data quality and governance metrics, ensuring leaders have up-to-date information for strategic decision-making
-            - Employed rigorous continuous delivery practices managed under an agile software development approach.
-            - Documented in a process-oriented and detailed manner ensures that all stakeholders can easily access and understand the information they need, improving efficiency and reducing errors
+          - Developed a solution to <mark>extract data from an SFTP file system</mark> into a CSV file and <mark>automated its execution</mark> using <mark>Task Scheduler</mark>.
+          - Implemented <mark>Shell Script</mark>, <mark>Power BI</mark>, and <mark>SharePoint</mark> to <mark>automate reporting</mark> for data quality and governance metrics, ensuring <mark>real-time access</mark> to key information.
+          - Employed <mark>continuous delivery</mark> practices under an <mark>agile software development</mark> approach to ensure iterative progress and team collaboration.
+          - Produced <mark>process-oriented documentation</mark> to help stakeholders easily access, understand, and use key information, <mark>reducing errors</mark> and improving <mark>efficiency</mark>.
+
       - layout: left
         title: Systex Co., Ltd
         # link: boringcompany.com
@@ -124,13 +126,14 @@ content:
           Automated data pipelines, streamlined system upgrades, and built real-time dashboards to turn complex data into actionable insights
         skills: | # this will include new lines to allow paragraphs
           <mark>Data Pipeline Automation</mark> · <mark>ETL Process</mark> · <mark>Splunk Dashboards</mark> · <mark>SQL Query Optimization</mark> · <mark>System Integration</mark> · <mark>Alert System via API</mark>
-        description: | # this will include new lines to allow paragraphs
-            - Performed real-time data collection, created Splunk dashboards, and established notification systems using Line Notify API for user alerts
-            - Designed and developed ETL processes that transformed a variety of raw data, flat files, xl spreadsheets into databases.
-            - Automated data extraction from the Network File System and integrated Splunk with IBM TSM, reducing manual effort by 50% and improving resource utilization by 15%
-            - Designed and refined SQL queries for web data analysis, delivering transparent explanations and boosting performance.
-            - Executed system upgrades in 2 months, coordinating with clients and resolving issues in development, test, and production. Documented the upgrade process for future reference
-            - Facilitated customer consultations by addressing key needs and upholding a professional and client-focused approach
+        description: |
+          - Performed <mark>real-time data collection</mark>, created <mark>Splunk dashboards</mark>, and set up <mark>notification systems</mark> using the <mark>Line Notify API</mark> for user alerts.
+          - Designed and developed <mark>ETL processes</mark> to transform raw data, flat files, and spreadsheets into structured <mark>databases</mark>.
+          - <mark>Automated data extraction</mark> from the <mark>Network File System</mark> and integrated <mark>Splunk with IBM TSM</mark>, reducing manual effort by <mark>50%</mark> and boosting <mark>resource utilization</mark> by <mark>15%</mark>.
+          - Designed and optimized <mark>SQL queries</mark> for web data analysis, delivering <mark>clear explanations</mark> and improving performance.
+          - Executed <mark>system upgrades</mark> within 2 months, coordinating with clients and resolving issues across <mark>development</mark>, <mark>test</mark>, and <mark>production</mark> environments. Documented the full upgrade process.
+          - Facilitated <mark>customer consultations</mark> by addressing key technical needs while maintaining a <mark>professional and client-focused approach</mark>.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -149,9 +152,11 @@ content:
         caption: Sep 2017 – Jun 2021
         sub_title: Bachelor of Information System Management
         description: | 
-          🏳️‍🌈 Reconnected with my identity and advocated for LGBTQ+ and women’s rights
-          📣 Participated in civic movements, including street campaigns and voter mobilization
-          💡 College was a turning point for personal growth and social engagement
+          🏳️‍🌈 Reconnected with my identity and advocated for LGBTQ+ and women’s rights 
+
+          📣 Participated in civic movements, including street campaigns and voter mobilization 
+          
+          💡 College was a turning point for personal growth and social engagement 
 
          
   - title: A Little More About Me
