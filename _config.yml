@@ -139,23 +139,20 @@ content:
         caption: Sep 2023 – Present
         sub_title: Master of Science in Data Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Discovered a new passion for Michigan football 🏈 and the electrifying game-day energy — forever a Wolverine fan! 💙💛
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          - Currently pursuing a Master of Science in Data Science at the University of Michigan, with an expected graduation date of May 2025.
+          - Coursework includes advanced topics in data science, machine learning, and data visualization.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
         title: National Sun Yat-sen University
         caption: Sep 2017 – Jun 2021
-        sub_title: achelor of Information System Management
-        quote: >
-          Reconnected with my identity, became an advocate for LGBTQ+ and women's rights, and actively engaged in Taiwan's civic movements.
-
+        sub_title: Bachelor of Information System Management
         description: | 
-          During my undergraduate years, I began a journey of self-discovery that led me to embrace my identity and advocate for equality. 
-          I joined campus initiatives supporting LGBTQ+ voices and women's empowerment, and I became actively involved in social issues in Taiwan.
-          This included participating in street campaigns, speaking out during public events, and encouraging voter turnout for major political causes such as recall elections.
-        
+          🏳️‍🌈 Reconnected with my identity and advocated for LGBTQ+ and women’s rights
+          📣 Participated in civic movements, including street campaigns and voter mobilization
+          💡 College was a turning point for personal growth and social engagement
+
          
   - title: A Little More About Me
     layout: text
