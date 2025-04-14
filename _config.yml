@@ -78,7 +78,7 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -92,14 +92,13 @@ content:
           Developed a full-stack application that integrated a React Native chat interface with a PHP backend and MySQL database, enabling real-time communication with UMGPT.
         skills: | # this will include new lines to allow paragraphs
           <mark>React Native</mark>, <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Docker</mark>, <mark>Knex</mark>, <mark>Postman</mark>
-        description: |
-          - **Analyzed** an **undocumented application** to understand its structure and successfully **developed a chat functionality**, ensuring **seamless integration** with the existing system.
-          - **Configured Docker containers** to deploy a **full-stack application**, integrating a **PHP backend** with a **MySQL database** to **streamline development and testing workflows**.
-          - **Executed SQL data migrations** and **seeding processes**, leveraging **Knex** and **TablePlus** to ensure **data integrity** and accurate database setup.
-          - **Designed and implemented robust API endpoints** to enable **efficient communication** between the frontend and backend, thoroughly **testing functionality and request-response flows** with **Postman** to ensure **reliability and performance**.
-          - **Integrated** a **React Native chat interface** in the app’s frontend, connecting it with the backend to enable **real-time interaction with UMGPT**.
-          - **Translated technical complexities** into concise, **actionable updates** for management, focusing on **insights**, **project progress**, and realistic **timelines**.
-
+        description: | # this will include new lines to allow paragraphs
+          - Analyzed an undocumented application to understand its structure and successfully developed a chat functionality, ensuring seamless integration with the existing system.
+          - Configuring Docker containers to deploy a full-stack application, seamlessly integrating a PHP backend with a MySQL database to streamline development and testing workflows.
+          - Executing SQL data migrations and seeding processes, leveraging Knex and TablePlus to ensure data integrity and accurate database setup.
+          - Designing and implementing robust API endpoints to enable efficient communication between the frontend and backend, thoroughly testing functionality and request-response flows with Postman to ensure reliability and performance.
+          - Integrating a React Native chat interface in the app’s frontend, connecting it with the backend to enable real-time interaction with UMGPT for seamless user communication.
+          - Translating technical complexities into concise, actionable updates for management, focusing on insights, project progress, and realistic timelines.
       - layout: left
         title: Boehringer Ingelheim
         # link: boringcompany.com
@@ -110,12 +109,11 @@ content:
           Built automated workflows that made complex reporting simple — so that leaders could focus on decisions, not data cleanup.
         skills: | # this will include new lines to allow paragraphs
           <mark>Power BI</mark>, <mark>Shell Script</mark>, <mark>SharePoint</mark>, <mark>Agile</mark>
-        description: |
-          - **Developed** a solution to **extract data from an SFTP file system** into a **CSV file** and **automated its execution** using **Task Scheduler**.
-          - **Implemented** **Shell Script**, **Power BI**, and **SharePoint** to **automate the reporting process** for **data quality and governance metrics**, ensuring leaders have **up-to-date information** for **strategic decision-making**.
-          - **Employed continuous delivery practices** under an **agile software development** approach to ensure **iterative progress** and **team collaboration**.
-          - **Produced process-oriented documentation** to help stakeholders **easily access and understand** key information, **reducing errors** and **improving efficiency**.
-
+        description: | # this will include new lines to allow paragraphs
+            - Developed a solution to extract data from an SFTP file system into a CSV file and automated its execution using Task Scheduler
+            - Implemented Shell Script, Power BI, and SharePoint to automate the reporting process for data quality and governance metrics, ensuring leaders have up-to-date information for strategic decision-making
+            - Employed rigorous continuous delivery practices managed under an agile software development approach.
+            - Documented in a process-oriented and detailed manner ensures that all stakeholders can easily access and understand the information they need, improving efficiency and reducing errors
       - layout: left
         title: Systex Co., Ltd
         # link: boringcompany.com
@@ -126,14 +124,14 @@ content:
           Automated data pipelines, streamlined system upgrades, and built real-time dashboards to turn complex data into actionable insights
         skills: | # this will include new lines to allow paragraphs
           <mark>Data Pipeline Automation</mark> · <mark>ETL Process</mark> · <mark>Splunk Dashboards</mark> · <mark>SQL Query Optimization</mark> · <mark>System Integration</mark> · <mark>Alert System via API</mark>
-        description: |
-          - **Performed real-time data collection**, created **Splunk dashboards**, and established **notification systems** using the **Line Notify API** for **user alerts**.
-          - **Designed and developed ETL processes** to transform **raw data**, **flat files**, and **spreadsheets** into structured **databases**.
-          - **Automated data extraction** from the **Network File System** and **integrated Splunk with IBM TSM**, reducing **manual effort by 50%** and improving **resource utilization by 15%**.
-          - **Optimized SQL queries** for **web data analysis**, delivering **transparent explanations** and **enhancing performance**.
-          - **Executed system upgrades** within **2 months**, coordinating with clients and resolving issues across **development**, **test**, and **production** environments. **Documented** the full upgrade process for future reference.
-          - **Facilitated customer consultations** by addressing **technical needs** while maintaining a **professional and client-focused approach**.
-
+        description: | # this will include new lines to allow paragraphs
+            - Performed real-time data collection, created Splunk dashboards, and established notification systems using Line Notify API for user alerts
+            - Designed and developed ETL processes that transformed a variety of raw data, flat files, xl spreadsheets into databases.
+            - Automated data extraction from the Network File System and integrated Splunk with IBM TSM, reducing manual effort by 50% and improving resource utilization by 15%
+            - Designed and refined SQL queries for web data analysis, delivering transparent explanations and boosting performance.
+            - Executed system upgrades in 2 months, coordinating with clients and resolving issues in development, test, and production. Documented the upgrade process for future reference
+            - Facilitated customer consultations by addressing key needs and upholding a professional and client-focused approach
+   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
