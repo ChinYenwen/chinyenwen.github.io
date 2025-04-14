@@ -64,21 +64,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: 🔧 Automated Alert Workflow with Splunk and ESB Integration
+        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Python (CSV parsing, file handling, API calls)  
+          Shell Script (automation and scheduling)  
+          Splunk (data source)  
+          ESB integration (via custom file-based messaging)  
+          Linux cron jobs (for scheduled execution)  
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  
+          This diagram illustrates the automated alert processing pipeline I developed during my previous role. 
+          The system retrieves scheduled reports from Splunk, processes and enriches the data, 
+          and sends the output to an external ESB (Enterprise Service Bus) system for downstream consumption.
+          ![splunk_workflow](/images/splunk_workflow.png "splunk_workflow")
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
