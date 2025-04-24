@@ -101,12 +101,14 @@ content:
         skills: | # this will include new lines to allow paragraphs
           <mark>React Native</mark>, <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Docker</mark>, <mark>Knex</mark>, <mark>Postman</mark>
         description: | # this will include new lines to allow paragraphs
-          - Analyzed an undocumented application to understand its structure and successfully developed a chat functionality, ensuring seamless integration with the existing system.
-          - Configuring Docker containers to deploy a full-stack application, seamlessly integrating a PHP backend with a MySQL database to streamline development and testing workflows.
-          - Executing SQL data migrations and seeding processes, leveraging Knex and TablePlus to ensure data integrity and accurate database setup.
-          - Designing and implementing robust API endpoints to enable efficient communication between the frontend and backend, thoroughly testing functionality and request-response flows with Postman to ensure reliability and performance.
-          - Integrating a React Native chat interface in the app’s frontend, connecting it with the backend to enable real-time interaction with UMGPT for seamless user communication.
-          - Translating technical complexities into concise, actionable updates for management, focusing on insights, project progress, and realistic timelines.
+          - Developed RESTful APIs using PHP and MySQL to power GPT-integrated chat functionality in a mobile application,
+          enabling real-time, intelligent conversations
+          - Designed and implemented a secure database schema and executed SQL migrations using Knex.js, ensuring data
+          consistency and supporting new feature rollouts
+          - Maintained a Docker-based local development environment to support backend integration
+          - Validated API functionality using Postman and TablePlus to ensure accurate request–response behavior
+          - Collaborated with non-technical stakeholders to define API requirements and translated technical specifications into user-
+          centric deliverables and progress reports
       - layout: left
         title: Boehringer Ingelheim
         # link: boringcompany.com
@@ -118,10 +120,13 @@ content:
         skills: | # this will include new lines to allow paragraphs
           <mark>Power BI</mark>, <mark>Shell Script</mark>, <mark>SharePoint</mark>, <mark>Agile</mark>
         description: | # this will include new lines to allow paragraphs
-            - Developed a solution to extract data from an SFTP file system into a CSV file and automated its execution using Task Scheduler
-            - Implemented Shell Script, Power BI, and SharePoint to automate the reporting process for data quality and governance metrics, ensuring leaders have up-to-date information for strategic decision-making
-            - Employed rigorous continuous delivery practices managed under an agile software development approach.
-            - Documented in a process-oriented and detailed manner ensures that all stakeholders can easily access and understand the information they need, improving efficiency and reducing errors
+          - Developed an automated data extraction solution from SFTP to CSV using Shell Script and Task Scheduler, reducing
+          manual data retrieval time by 60%
+          - Built a Power BI dashboard that visualized data quality and governance metrics from SharePoint, enabling real-time
+          visibility for strategic decision-making
+          - Worked closely with scientists to identify key metrics and co-develop Power BI dashboards, enhancing cross-team data
+          accessibility and standardizing reporting workflows under agile methodology
+          - Authored clear, process-oriented documentation to support knowledge transfer and reduce onboarding time
       - layout: left
         title: Systex Co., Ltd
         # link: boringcompany.com
@@ -133,12 +138,16 @@ content:
         skills: | # this will include new lines to allow paragraphs
           <mark>Data Pipeline Automation</mark> · <mark>ETL Process</mark> · <mark>Splunk Dashboards</mark> · <mark>SQL Query Optimization</mark> · <mark>System Integration</mark> · <mark>Alert System via API</mark>
         description: | # this will include new lines to allow paragraphs
-            - Performed real-time data collection, created Splunk dashboards, and established notification systems using Line Notify API for user alerts
-            - Designed and developed ETL processes that transformed a variety of raw data, flat files, xl spreadsheets into databases.
-            - Automated data extraction from the Network File System and integrated Splunk with IBM TSM, reducing manual effort by 50% and improving resource utilization by 15%
-            - Designed and refined SQL queries for web data analysis, delivering transparent explanations and boosting performance.
-            - Executed system upgrades in 2 months, coordinating with clients and resolving issues in development, test, and production. Documented the upgrade process for future reference
-            - Facilitated customer consultations by addressing key needs and upholding a professional and client-focused approach
+          - Designed and automated ETL pipelines to ingest and structure raw files and spreadsheets into databases, reducing manual
+          data preparation time by 40% and improving reporting accuracy
+          - Integrated Splunk with IBM TSM and NFS systems for real-time monitoring and alerting, cutting manual tracking
+          workload by 50% and improving system resource utilization by 15%
+          - Led a Proof of Concept (PoC) integrating Splunk with an ESB system, automating alert workflows via Python and Linux
+          crontab scheduling, decreasing incident response time by 25% and saving 6+ hours/week of manual effort
+          - Used VMware to simulate and test upgrade scenarios across development, test, and production environments, reducing
+          deployment risk and shortening upgrade timelines
+          - Collaborated to draft User Acceptance Testing (UAT) documentation for a client project, gaining hands-on experience in
+          system validation and business requirement alignment
    
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
