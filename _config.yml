@@ -8,6 +8,7 @@ version: 2
 # Personal info
 name: Yen-wen Chin
 title: Data Science graduate Student at University of Michigan
+subtitle: Go Blue! Go Maize! 💙💛
 email: yenwenchin2025@gmail.com
 website: https://www.linkedin.com/in/yenwen-chin/
 
@@ -75,16 +76,16 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Python (CSV parsing, file handling, API calls)  
-          Shell Script (automation and scheduling)  
-          Splunk (data source)  
-          ESB integration (via custom file-based messaging)  
-          Linux cron jobs (for scheduled execution)  
+          - Python (CSV parsing, file handling, API calls)  
+          - Shell Script (automation and scheduling)  
+          - Splunk (data source)  
+          - ESB integration (via custom file-based messaging)  
+          - Linux cron jobs (for scheduled execution)  
         description: | # this will include new lines to allow paragraphs
           This diagram illustrates the automated alert processing pipeline I developed during my previous role. 
           The system retrieves scheduled reports from Splunk, processes and enriches the data, 
           and sends the output to an external ESB (Enterprise Service Bus) system for downstream consumption.
-          ![splunk_workflow](/images/splunk_workflow.png "splunk_workflow")
+          ![splunk_workflow](/images/Splunk_ESB.png "splunk_workflow")
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
