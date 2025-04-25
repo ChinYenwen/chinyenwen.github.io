@@ -85,7 +85,8 @@ content:
           This diagram illustrates the automated alert processing pipeline I developed during my previous role. 
           The system retrieves scheduled reports from Splunk, processes and enriches the data, 
           and sends the output to an external ESB (Enterprise Service Bus) system for downstream consumption.
-          ![splunk_workflow](/images/Splunk_ESB.png "splunk_workflow")
+          <img src="/images/Splunk_ESB.png" alt="splunk_workflow" title="splunk_workflow" width="450">
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
