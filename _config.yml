@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Yen-wen Chin
-title: Data Science graduate Student at University of Michigan
+name: Yen-wen Chin 
+title: Data Science graduate Student at University of Michigan | Go Blue! Go Maize! 💙💛
 subtitle: Go Blue! Go Maize! 💙💛
 email: yenwenchin2025@gmail.com
 website: https://www.linkedin.com/in/yenwen-chin/
@@ -85,7 +85,7 @@ content:
           This diagram illustrates the automated alert processing pipeline I developed during my previous role. 
           The system retrieves scheduled reports from Splunk, processes and enriches the data, 
           and sends the output to an external ESB (Enterprise Service Bus) system for downstream consumption.
-          <img src="/images/Splunk_ESB.png" alt="splunk_workflow" title="splunk_workflow" width="450">
+          <img src="/images/Splunk_ESB.png" alt="splunk_workflow" title="splunk_workflow" width="500">
 
 
   - title: Experience # Title for the section
